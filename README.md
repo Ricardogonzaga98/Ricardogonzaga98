@@ -3,29 +3,35 @@
 ## Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**<br>
-💻 Aprendendo e desenvolvendo projetos com **HTML**, **CSS** e **JavaScript**<br>
+💻 Aprendendo e desenvolvendo projetos com **HTML**, **CSS**, **JavaScript** e **React**<br>
+🌱 Explorando tanto o **Frontend** quanto o **Backend**<br>
 🚀 Em busca da minha primeira oportunidade de estágio na área de **Desenvolvimento Web**<br>
-📚 Apaixonado por tecnologia e por aprender coisas novas todos os dias.
+📚 Apaixonado por tecnologia e sempre buscando evoluir como desenvolvedor.
 
 ## 🌱 Tecnologias que estou aprendendo
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- React.js
+- Node.js (iniciante)
 - Git & GitHub
 
 ## 📈 Próximos passos
 
-- Aprender **React.js**
-- Criar projetos para meu portfólio
+- Aprimorar habilidades em **React (Frontend)**
+- Iniciar estudos mais avançados em **Node.js (Backend)**
+- Desenvolver projetos Fullstack para o portfólio
 - Contribuir com projetos open source
 
 ## 📫 Como me encontrar
 
-[![LinkedIn] https://www.linkedin.com/in/ricardo-gonzaga-337192240/
+[![LinkedIn]https://www.linkedin.com/in/ricardo-gonzaga-337192240/
+
 ---
 
 Obrigado por visitar meu perfil! 😊
+
 
 
 <!--
