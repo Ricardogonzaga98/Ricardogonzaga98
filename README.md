@@ -22,8 +22,7 @@
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/ricardo-gonzaga-337192240/)
-
+[![LinkedIn] https://www.linkedin.com/in/ricardo-gonzaga-337192240/
 ---
 
 Obrigado por visitar meu perfil! 😊
